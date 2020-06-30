@@ -16,13 +16,13 @@ li {
 }
 
 html {
-    background-color: #0D1B1E;
+    background-color: #51666b;
 }
 
 .content {
     max-width: 500px;
     margin: auto;
-    background-color: rgb(190, 175, 159);
+    background-color: #51666b;
     padding: 10px;
 }
 
